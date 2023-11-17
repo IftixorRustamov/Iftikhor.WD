@@ -1,3 +1,11 @@
 style {
     background-color: darkseagreen;
 }
+
+.header{
+    background-color: darkgrey;
+    text-align: end;
+    height: 70px;
+    font-size: larger;
+    font-family: 'Oswald', sans-serif;
+}
